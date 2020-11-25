@@ -1,3 +1,10 @@
+:root {
+	--gsui-font: "Montserrat", sans-serif;
+	--gsui-font-title: "Oswald", var( --gsui-font );
+	--gsui-font-monospace: "Inconsolata", "consolas", monospace;
+	--gsui-font-number: "Unica One", var( --gsui-font-monospace );
+}
+
 /* FontAwesome (regular/bold) */
 /* .......................................................................... */
 
